@@ -14,7 +14,7 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": "1663359148:AAEK_tQw81HT5RnEsaH6XKatFCywOgxoPUA"
+            "value": "1519216560:AAGRSfI2uHWT_JRxCSTE2mAB-zEa-TIO9E4"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
@@ -30,7 +30,7 @@
         },
         "MAINCHANNEL_ID": {
             "description": "ID of Channel from which the bot should search files",
-            "value": "-1001370007665"
+            "value": "-1001433161521"
         }
     },
     "buildpacks": [
