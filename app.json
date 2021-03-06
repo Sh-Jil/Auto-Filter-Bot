@@ -26,7 +26,7 @@
         },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@SpEcHiDe/GenerateStringSession",
-            "value": "BQAtL16QJn_nd2Nco2VsOrN57_mrP5vcO7mTMHh2d2UL6k-FET-w5V03AwlJsjToDovDqZxMqmR-bmpFJYw9AD_mED3eTIV3ZTZ49547Dv8zHo4OTdFMkF3J8WGZQFUQ0PfpEjZ9qR9n5m_L-yiaaPj5gWKOfrKeAf_rtIL0AWhkvk_V1uvlpABgLd1QJD-tGbF41ezrwi5-2NhQYUDkEGqlHBwT7uvPheIiNC1RK1n60dl62P5oJ5CzCVElrAOUgWnqxRI3B_rB7PDGg8bGp2QKvFBSSLcFGBLCxAUmESLGn8JCdN0dcaIkku8g9AAMzo5FzbCbk_gvScyrcgkzGBFFK1W33QA"
+            "value": "BQDBgugK0euc_Cc6fbLQL8sSwnqRKTMsw5gT6SqPTzIUahQ6h5-U51Yhjd1rwlPAbnhREg3ZUHU-d16EnM8lDT6wN8KMeZkvLyXqncjKu0NWVoHo_5wNS5oGipi1DH6yKUDxOmKZTQw1USWnuMCoUa5oHmY3GtvXb7P8AKHxiEEg3GMVo8LyiO-iT9mQB_XzHyW6Ubwjpfo6zs_GSWPS-YKJfp6OhztiK6kuNscijx2ywVA2lh2JnCGQqCOAAzMRnjnYF2BvlsAgmeENUYTRcHuRPKOtHujo5V8v_-owtuWPWMY6jMDUzYnC7rev-xbzLcimCdhJG-vQTjNMv90ZdHXTK1W33QA"
         },
         "MAINCHANNEL_ID": {
             "description": "ID of Channel from which the bot should search files",
