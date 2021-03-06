@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-Official Telegram BOT of [Cinemapranthanmar](https://t.me/cinemapranthanmaar) :D
+Official Telegram BOT of @Cinemapranthanmaar) :D
 
 Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
